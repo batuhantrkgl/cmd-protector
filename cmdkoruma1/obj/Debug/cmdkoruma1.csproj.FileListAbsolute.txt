@@ -1,0 +1,11 @@
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\bin\Debug\cmdkoruma1.exe.config
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\bin\Debug\cmdkoruma1.exe
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\bin\Debug\cmdkoruma1.pdb
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.Form1.resources
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.Properties.Resources.resources
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.csproj.GenerateResource.cache
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.csproj.CoreCompileInputs.cache
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.exe
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.pdb
+C:\Users\Batuhantrkgl\source\repos\cmdkoruma1\cmdkoruma1\obj\Debug\cmdkoruma1.csproj.AssemblyReference.cache
